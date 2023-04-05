@@ -1,0 +1,10 @@
+.text{
+    width:23%;
+    color:white;
+    background-color: rgba(57, 48, 48, 0.516);
+    margin: 0;
+    font-size: 60px;
+    font-family: cursive;
+    border: 10px solid rgb(39, 232, 39);
+    margin:340px
+}
